@@ -5,7 +5,7 @@ Following these best practices will make it easier for search engines to crawl, 
 "Search engine optimization is about putting your site's best foot forward when it comes to visibility in search engines, but your ultimate consumers are your users, not search engines." -google
 
 
-<h3>Create unique, accurate page titles</h3>
+<h3>// Create unique, accurate page titles</h3>
 A title tag tells both users and search engines what the topic of a particular page is.
 
 Remember: Page title contents are displayed in search results
@@ -20,7 +20,7 @@ Remember: Page title contents are displayed in search results
 <code>&lt;title&gt;Page Title - Site Name | Brand&lt;/title&gt;</code>
 
 
-<h3>Make use of the "description" meta tag</h3>
+<h3>// Make use of the "description" meta tag</h3>
 A page's description meta tag gives search engines a summary of what the page is about
 
 <h4>Best Practices</h4>
