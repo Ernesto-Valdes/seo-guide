@@ -1,5 +1,5 @@
 <h2>SEO-Guide</h2>
-
+======
 Following these best practices will make it easier for search engines to crawl, index and understand your content.
 
 "Search engine optimization is about putting your site's best foot forward when it comes to visibility in search engines, but your ultimate consumers are your users, not search engines." -google
@@ -29,7 +29,8 @@ A page's description meta tag gives search engines a summary of what the page is
 	<li>Use unique descriptions for each page</li>
 </ul>
 
-<h3>Improve the structure of your URLs</h3>
+<h2>Improve the structure of your URLs</h2>
+======
 Simple-to-understand URLs will convey content information easily. It could also lead to better crawling of your documents by search engines. If your URL contains relevant words, this provides users and search engines with more information about the page than an ID or oddly named parameter would. 
 
 Remember: URLs are displayed in search results. 
