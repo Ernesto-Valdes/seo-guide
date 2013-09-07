@@ -17,7 +17,7 @@ Remember: Page title contents are displayed in search results
 	<li>Use brief, but descriptive titles</li>
 </ul>
 
-<code>&lt;title&gt;</code>
+<code>&lt;title&gt;Page Title - Site Name | Brand&lt;/title&gt;</code>
 
 
 <h3>Make use of the "description" meta tag</h3>
