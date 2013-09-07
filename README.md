@@ -6,6 +6,16 @@ Following these best practices will make it easier for search engines to crawl, 
 
 
 <h3>Create unique, accurate page titles</h3>
+A title tag tells both users and search engines what the topic of a particular page is.
+
+Remember: Page title contents are displayed in search results
+
+<h4>Best Practices</h4>
+<ul>
+	<li>Accurately describe the page's content</li>
+	<li>Create unique title tags for each page</li>
+	<li>Use brief, but descriptive titles</li>
+</ul>
 
 
 
