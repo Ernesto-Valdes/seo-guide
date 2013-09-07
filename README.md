@@ -1,8 +1,3 @@
-<style>
-code {background-color: blue;}
-</style>
-
-
 <h2>SEO-Guide</h2>
 
 Following these best practices will make it easier for search engines to crawl, index and understand your content.
