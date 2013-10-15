@@ -27,6 +27,12 @@
 <li>Be aware of rel="nofollow" for links</li>
 </ul>
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 <h2>SEO for Mobile Phones</h2>
 <ul>
 <li>Notify Google of mobile sites</li>
