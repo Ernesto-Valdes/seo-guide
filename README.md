@@ -28,7 +28,7 @@
 </ul>
 
 | Environment    | Branch                             | Audience/Purpose                          |
-| -------------- |:----------------------------------:| -----------------------------------------:|
+| -------------- | ---------------------------------- | ----------------------------------------- |
 | dev            | dev                                | internal verifying                        |
 | dev2           | unused *(redirects to dev)*        | N/A                                       |
 | qa        		 | master                             | provided to client                        |
