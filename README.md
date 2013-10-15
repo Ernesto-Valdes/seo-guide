@@ -27,11 +27,12 @@
 <li>Be aware of rel="nofollow" for links</li>
 </ul>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Environment    | Branch                             | Audience/Purpose                          |
+| -------------- |:----------------------------------:| -----------------------------------------:|
+| dev            | dev                                | internal verifying                        |
+| dev2           | unused *(redirects to dev)*        | N/A                                       |
+| qa        		 | master                             | provided to client                        |
+| qa2       		 | fix-name                           | release candidate to new.adt.com          |
 
 <h2>SEO for Mobile Phones</h2>
 <ul>
