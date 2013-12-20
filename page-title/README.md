@@ -1,10 +1,15 @@
 <h1>Page Title</h1>
+
 <p>A title tag tells both users and search engines what the topic of a particular page is. The <code>&lsaquo;
-title&rsaquo;</code>
-tag should be placed within the <code>&lsaquo;head&rsaquo;</code> tag of the HTML document (1). Ideally,
+title&rsaquo;</code> tag should be placed within the <code>&lsaquo;head&rsaquo;</code> tag of the HTML document (1). Ideally,
 you should create a unique title for each page on your site.</p>
 
-<h2>Accurately describe the page's content</h2>
+<p>If your document appears in a search results page, the contents of the title tag will usually appear in the first
+line of the results<p>
+
+<h2>Best Practices</h2>
+
+<h3>Accurately describe the page's content</h3>
 <p>Choose a title that effectively communicates the topic of the page's content.</p>
 
 <strong>Examples:</strong>
@@ -23,3 +28,4 @@ you should create a unique title for each page on your site.</p>
     <li>using default or vague titles like "Untitled" or "New Page 1"</li>
 </ul>
 
+<h3>Another best practice</h3>

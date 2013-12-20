@@ -1,4 +1,5 @@
 <h1>Search Engine Optimization Starter Guide</h1>
+
 <p>Search engine optimization is often about making small modifications to parts of your website. When viewed
 individually, these changes might seem like incremental improvements, but when combined with other optimizations,
 they could have a noticeable impact on your site's user experience and performance in organic search results.</p>
