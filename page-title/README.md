@@ -4,7 +4,7 @@
 you should create a unique title for each page on your site.</p>
 
 <p>If your document appears in a search results page, the contents of the title tag will usually appear in the first
-line of the results<p>
+line of the results.<p>
 
 ## Best Practices
 
