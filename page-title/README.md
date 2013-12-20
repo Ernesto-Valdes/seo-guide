@@ -28,4 +28,11 @@ line of the results<p>
     <li>using default or vague titles like "Untitled" or "New Page 1"</li>
 </ul>
 
-<h3>Another best practice</h3>
+<h3>Create unique title tags for each page</h3>
+<p>Each of your pages should ideally have a unique title tag, which helps Google know how the page is distinct from
+the others on your site.<p>
+
+<strong>Avoid:</strong>
+<ul>
+    <li>using a single title tag across all of your site's pages or a large group of pages</li>
+</ul>
