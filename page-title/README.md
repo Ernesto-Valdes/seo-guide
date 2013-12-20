@@ -6,9 +6,9 @@ you should create a unique title for each page on your site.</p>
 <p>If your document appears in a search results page, the contents of the title tag will usually appear in the first
 line of the results.<p>
 
-## Best Practices
+<h2>Best Practices</h2>
 
-### Accurately describe the page's content
+<h3>Accurately describe the page's content</h3>
 <p>Choose a title that effectively communicates the topic of the page's content.</p>
 
 <strong>Examples:</strong>
