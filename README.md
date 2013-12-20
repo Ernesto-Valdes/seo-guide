@@ -1,9 +1,12 @@
 <h1>Search Engine Optimization Starter Guide</h1>
-<p>Search engine optimization is often about making small modifications to parts of your website. When viewed individually, these changes might seem like incremental improvements, but when combined with other optimizations, they could have a noticeable impact on your site's user experience and performance in organic search results.</p>
+<p>Search engine optimization is often about making small modifications to parts of your website. When viewed
+individually, these changes might seem like incremental improvements, but when combined with other optimizations,
+they could have a noticeable impact on your site's user experience and performance in organic search results.</p>
 
 <h2>SEO Basics</h2>
 <ul>
-<li>Create unique, accurate page titles</li>
+<li>Create unique, accurate page titles</li>[page titles](https://github
+.com/Ernesto-Valdes/seo-guide/tree/master/page-title "Page Title")
 <li>Make use of the "description" meta tag</li>
 </ul>
 

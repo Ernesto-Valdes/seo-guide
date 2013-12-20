@@ -1,6 +1,7 @@
 <h1>Page Title</h1>
-<p>A title tag tells both users and search engines what the topic of a particular page is. The <code><title></code>
-tag should be placed within the <code><head></code> tag of the HTML document (1). Ideally,
+<p>A title tag tells both users and search engines what the topic of a particular page is. The <code>&lsaquo;
+title&rsaquo;</code>
+tag should be placed within the <code>&lsaquo;head&rsaquo;</code> tag of the HTML document (1). Ideally,
 you should create a unique title for each page on your site.</p>
 
 <h2>Accurately describe the page's content</h2>
