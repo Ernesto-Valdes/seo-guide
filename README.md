@@ -7,8 +7,8 @@ they could have a noticeable impact on your site's user experience and performan
 <h2>SEO Basics</h2>
 <ul>
 <li>Create unique, accurate <a href="https://github.com/Ernesto-Valdes/seo-guide/tree/master/page-title" title="Page
-Title">page titles</li>
-<li>Make use of the "description" meta tag</li>
+Title">page titles</a></li>
+<li>Make use of the "description" <a href="https://github.com/Ernesto-Valdes/seo-guide/tree/master/meta-tags" title="Meta Tag">meta tag</a></li>
 </ul>
 
 <h2>Improving Site Structure</h2>
